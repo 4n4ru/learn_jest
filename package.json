@@ -1,0 +1,23 @@
+{
+  "name": "learn_jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4n4ru/learn_jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4n4ru/learn_jest/issues"
+  },
+  "homepage": "https://github.com/4n4ru/learn_jest#readme"
+}
